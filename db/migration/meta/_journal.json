@@ -1,0 +1,69 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1745937917583,
+      "tag": "0000_happy_miss_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1745945982491,
+      "tag": "0001_bizarre_butterfly",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1745989177053,
+      "tag": "0002_jazzy_viper",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1746168315655,
+      "tag": "0003_living_monster_badoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1746168328426,
+      "tag": "0004_mature_veda",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1746169058710,
+      "tag": "0005_sad_whiplash",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1746172084331,
+      "tag": "0006_lovely_rogue",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1746172381736,
+      "tag": "0007_lethal_adam_warlock",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1746173805783,
+      "tag": "0008_cloudy_genesis",
+      "breakpoints": true
+    }
+  ]
+}
